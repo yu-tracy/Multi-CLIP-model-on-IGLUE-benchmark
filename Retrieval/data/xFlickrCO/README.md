@@ -1,0 +1,1 @@
+Multilingual JSON lines files can be downloaded from [here](https://github.com/e-bug/iglue/tree/main/datasets/xFlickrCO/annotations)
